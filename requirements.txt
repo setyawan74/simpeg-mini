@@ -1,6 +1,10 @@
 streamlit
 pandas
 plotly
+fpdf
 bcrypt
 openpyxl
+xlrd
 xlsxwriter
+pillow
+
