@@ -7,4 +7,6 @@ openpyxl
 xlrd
 xlsxwriter
 pillow
+qrcode
+pyotp
 
